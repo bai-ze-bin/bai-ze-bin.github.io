@@ -19,15 +19,20 @@ footer: >-
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made to be easy to use! 🎓
 ---
-##关于我
+##关于我  
+
     我是中国科学技术大学信息科学技术学院的一名本科生。我的研究兴趣包括...
 
-##教育经历
-    2026-至今：中国科学技术大学，信息科学技术学院，本科
+##教育经历  
+
+    2026-至今：中国科学技术大学，信息科学技术学院，本科。  
+    
     - 研究方向：...
 
-##联系我
+##联系我  
+
     邮箱:bin15956525779@mail.ustc.edu.cn
-        :bin15956525779@outlook.com
-    
+
+
+
     
