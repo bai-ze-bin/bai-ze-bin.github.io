@@ -7,7 +7,7 @@ og-url: https://bai-ze-bin.github.io
 location: "安徽合肥"
 email: 15956525779@163.com
 clickable-email: true
-picture: img/profile.png
+picture: img/profile.png.png
 picture-round: true
 side-by-side: true
 disable-dark-mode: false
