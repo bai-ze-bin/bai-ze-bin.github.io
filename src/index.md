@@ -1,28 +1,19 @@
 ---
-title: Basicpage template
-author: Your Name
-shortbio: Short bio
+title: "姜国斌"
+author: "姜国斌"
+shortbio: "中国科学技术大学信息科学技术学院本科生"
 description-meta: Short bio for meta-data
-og-url: https://basicpage.github.io
-location: Location, office
-email: noreply@noemail.com
-clickable-email: false
+og-url: https://bai-ze-bin.github.io
+location: "安徽合肥"
+email: 15956525779@163.com
+clickable-email: true
 picture: img/profile.png
-picture-round: false
+picture-round: true
 side-by-side: true
 disable-dark-mode: false
 pronouns: Pronouns
 og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+github: bai-ze-bin
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
